@@ -1,2 +1,2 @@
 # basic_snake
-easy and basic snake game
+The whole game is in the other brance 
